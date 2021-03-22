@@ -1,0 +1,19 @@
+{
+    "name": "HGModPack",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/quanticate/hgmodpack",
+    "description": "ModPack for HG and friends.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.800",
+		"Masa-BetterUI-1.6.0",
+		"WeylandMod-WeylandMod-1.1.0",
+		"abearcodes-SimpleRecycling-0.0.13",
+		"mgway-PaddlePower-1.0.2",
+		"RandyKnapp-EquipmentAndQuickSlots-1.0.5",
+		"Tekla-AutoRepair-5.4.800",
+		"ERROR-BetterDiscordPresence-1.3.1",
+		"kassent-SkillBasedCarryweight-1.0.0",
+		"Masa-FirstPerson-1.0.2",
+		"mtnewton-CraftingStationRange-1.0.3"
+    ]
+}
