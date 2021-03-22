@@ -1,19 +1,20 @@
 {
     "name": "HGModPack",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/quanticate/hgmodpack",
     "description": "ModPack for HG and friends.",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.800",
-		"RandyKnapp-EquipmentAndQuickSlots-2.0.3"
-		"MahLanna-ClockMod-1.0.2"
-		"Xenofell-TorchesEternal-0.2.0"
-		"LTmadness-FermenterPercentage-0.0.5"
-		"nearbear-BiggerBoatMapExploreRadius-1.0.3"
-		"RandyKnapp-EpicLoot-0.5.16"
-		"sweetgiorni-AnyPortal-1.0.4"
-		"MahLanna-InstantMonsterDrop-1.0.2"
-		"virtuaCode-TrashItems-1.2.1"
-		"MSchmoecker-PressurePlate-0.0.3"		
+		"RandyKnapp-EquipmentAndQuickSlots-2.0.3",
+		"MahLanna-ClockMod-1.0.2",
+		"Xenofell-TorchesEternal-0.2.0",
+		"LTmadness-FermenterPercentage-0.0.5",
+		"nearbear-BiggerBoatMapExploreRadius-1.0.3",
+		"RandyKnapp-EpicLoot-0.5.16",
+		"sweetgiorni-AnyPortal-1.0.4",
+		"MahLanna-InstantMonsterDrop-1.0.2",
+		"virtuaCode-TrashItems-1.2.1",
+		"abearcodes-CraftingWithContainers-1.0.14",
+		"MSchmoecker-PressurePlate-0.0.3"
     ]
 }
